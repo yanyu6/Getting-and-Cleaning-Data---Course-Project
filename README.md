@@ -2,6 +2,7 @@
 ===============================================================
 In this course project, we need to show our abilities to collect, work with, and clean a data set.
 
+## Overview
 The link of the original data is here:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
@@ -20,6 +21,7 @@ After we created our R script and obtained a tidy data set, we need to
 We also include a README.md in the repo with your scripts. This repo explains how all of the scripts work and how they are connected.  
 
 ==================================================================
+##Explanation to the Script
 Now we will explain how all of my scripts work to get a tidy data set.
 First, we need to set working directory, download the original data file, and unzip the data file.
 Then, we need to analyze the data structure by reading all the info files including readme, features_info, features, and activity_labels. We can also open the data files to collect some info about the data. Finally, we concluded there are three groups of data, which are about measurement results, subject, and activity respectively.  Seventy percent of the data is in the train folder. Thirty percent of the data is in the test folder.
