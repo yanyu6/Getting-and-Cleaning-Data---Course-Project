@@ -20,9 +20,9 @@ For each record it is provided:
 5An identifier of the subject who carried out the experiment.
 
 ## Data Group Identifiers
-MainData - The measurement results
-Subject - the ID of the test subject
-Activity - the Type of activity performed 
+*MainData - The measurement results
+*Subject - the ID of the test subject
+*Activity - the Type of activity performed 
 
 ##Variables
 
@@ -124,6 +124,7 @@ frequencyBodyBodyAngularVelocityMagnitude-std()
 28
 29
 30
+
 ##Activity Label
 1 WALKING
 2 WALKING_UPSTAIRS
