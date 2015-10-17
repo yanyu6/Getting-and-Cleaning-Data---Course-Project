@@ -1,4 +1,4 @@
-# Getting-and-Cleaning-Data---Course-Project
+# Getting and Cleaning Data---Course Project
 ===============================================================
 In this course project, we need to show our abilities to collect, work with, and clean a data set.
 
