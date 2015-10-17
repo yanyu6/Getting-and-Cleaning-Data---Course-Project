@@ -20,78 +20,78 @@ For each record it is provided:
 5An identifier of the subject who carried out the experiment.
 
 ## Data Group Identifiers
-*MainData - The measurement results
-*Subject - the ID of the test subject
-*Activity - the Type of activity performed 
+1) MainData - The measurement results
+2) Subject - the ID of the test subject
+3) Activity - the Type of activity performed 
 
 ##Variables
 
-timeBodyAccelerometer-mean()-X
-timeBodyAccelerometer-mean()-Y                    
-timeBodyAccelerometer-mean()-Z
-timeBodyAccelerometer-std()-X                     
-timeBodyAccelerometer-std()-Y
-timeBodyAccelerometer-std()-Z                     
-timeGravityAccelerometer-mean()-X
-timeGravityAccelerometer-mean()-Y                 
-timeGravityAccelerometer-mean()-Z
-timeGravityAccelerometer-std()-X                  
-timeGravityAccelerometer-std()-Y
-timeGravityAccelerometer-std()-Z                  
-timeBodyAccelerometerJerk-mean()-X
-timeBodyAccelerometerJerk-mean()-Y                
-timeBodyAccelerometerJerk-mean()-Z
-timeBodyAccelerometerJerk-std()-X                 
-timeBodyAccelerometerJerk-std()-Y
-timeBodyAccelerometerJerk-std()-Z                 
-timeBodyGyroscope-mean()-x
-timeBodyGyroscope-mean()-Y                        
-timeBodyGyroscope-mean()-Z
-timeBodyGyroscope-std()-X                         
-timeBodyGyroscope-std()-Y
-timeBodyGyroscope-std()-Z                         
-timeBodyAngularVelocity-mean()-X
-timeBodyAngularVelocity-mean()-Y                  
-timeBodyAngularVelocity-mean()-Z
-timeBodyAngularVelocity-std()-X                   
-timeBodyAngularVelocity-std()-Y
-timeBodyAngularVelocity-std()-Z                   
-timeBodyAccelerometerMagnitude-mean()
-timeBodyAccelerometerMagnitude-std()              
-timeGravityAccelerometerMagnitude-mean()
-timeGravityAccelerometerMagnitude-std()           
-timeBodyAccelerometerJerkMagnitude-mean()
-timeBodyAccelerometerJerkMagnitude-std()          
-timeBodyGyroscopeMagnitude-mean()
-timeBodyGyroscopeMagnitude-std()                  
-timeBodyAngularVelocityMagnitude-mean()
-timeBodyAngularVelocityMagnitude-std()            
-frequencyBodyAccelerometer-mean()-X
-frequencyBodyAccelerometer-mean()-Y               
-frequencyBodyAccelerometer-mean()-Z
-frequencyBodyAccelerometer-std()-X                
-frequencyBodyAccelerometer-std()-Y
-frequencyBodyAccelerometer-std()-Z                
-frequencyBodyAccelerometerJerk-mean()-X
-frequencyBodyAccelerometerJerk-mean()-Y           
-frequencyBodyAccelerometerJerk-mean()-Z
-frequencyBodyAccelerometerJerk-std()-X            
-frequencyBodyAccelerometerJerk-std()-Y
-frequencyBodyAccelerometerJerk-std()-Z            
-frequencyBodyGyroscope-mean()-X
-frequencyBodyGyroscope-mean()-Y                   
-frequencyBodyGyroscope-mean()-Z
-frequencyBodyGyroscope-std()-X                    
-frequencyBodyGyroscope-std()-Y
-frequencyBodyGyroscope-std()-Z                    
-frequencyBodyAccelerometerMagnitude-mean()
-frequencyBodyAccelerometerMagnitude-std()        
-frequencyBodyBodyAccelerometerJerkMagnitude-mean()
-frequencyBodyBodyAccelerometerJerkMagnitude-std() 
-frequencyBodyBodyGyroscopeMagnitude-mean()
-frequencyBodyBodyGyroscopeMagnitude-std()         
-frequencyBodyBodyAngularVelocityMagnitude-mean()
-frequencyBodyBodyAngularVelocityMagnitude-std()
+1) timeBodyAccelerometer-mean()-X
+2) timeBodyAccelerometer-mean()-Y                    
+3) timeBodyAccelerometer-mean()-Z
+4) timeBodyAccelerometer-std()-X                     
+5) timeBodyAccelerometer-std()-Y
+6) timeBodyAccelerometer-std()-Z                     
+7) timeGravityAccelerometer-mean()-X
+8) timeGravityAccelerometer-mean()-Y                 
+9) timeGravityAccelerometer-mean()-Z
+10) timeGravityAccelerometer-std()-X                  
+11) timeGravityAccelerometer-std()-Y
+12) timeGravityAccelerometer-std()-Z                  
+13) timeBodyAccelerometerJerk-mean()-X
+14) timeBodyAccelerometerJerk-mean()-Y                
+15) timeBodyAccelerometerJerk-mean()-Z
+16) timeBodyAccelerometerJerk-std()-X                 
+17) timeBodyAccelerometerJerk-std()-Y
+18) timeBodyAccelerometerJerk-std()-Z                 
+19) timeBodyGyroscope-mean()-x
+20) timeBodyGyroscope-mean()-Y                        
+21) timeBodyGyroscope-mean()-Z
+22) timeBodyGyroscope-std()-X                         
+23) timeBodyGyroscope-std()-Y
+24) timeBodyGyroscope-std()-Z                         
+25) timeBodyAngularVelocity-mean()-X
+26) timeBodyAngularVelocity-mean()-Y                  
+27) timeBodyAngularVelocity-mean()-Z
+28) timeBodyAngularVelocity-std()-X                   
+29) timeBodyAngularVelocity-std()-Y
+30) timeBodyAngularVelocity-std()-Z                   
+31) timeBodyAccelerometerMagnitude-mean()
+32) timeBodyAccelerometerMagnitude-std()              
+33) timeGravityAccelerometerMagnitude-mean()
+34) timeGravityAccelerometerMagnitude-std()           
+35) timeBodyAccelerometerJerkMagnitude-mean()
+36) timeBodyAccelerometerJerkMagnitude-std()          
+37) timeBodyGyroscopeMagnitude-mean()
+38) timeBodyGyroscopeMagnitude-std()                  
+39) timeBodyAngularVelocityMagnitude-mean()
+40) timeBodyAngularVelocityMagnitude-std()            
+41) frequencyBodyAccelerometer-mean()-X
+42) frequencyBodyAccelerometer-mean()-Y               
+43) frequencyBodyAccelerometer-mean()-Z
+44) frequencyBodyAccelerometer-std()-X                
+45) frequencyBodyAccelerometer-std()-Y
+46) frequencyBodyAccelerometer-std()-Z                
+47) frequencyBodyAccelerometerJerk-mean()-X
+48) frequencyBodyAccelerometerJerk-mean()-Y           
+49) frequencyBodyAccelerometerJerk-mean()-Z
+50) frequencyBodyAccelerometerJerk-std()-X            
+51) frequencyBodyAccelerometerJerk-std()-Y
+52) frequencyBodyAccelerometerJerk-std()-Z            
+53) frequencyBodyGyroscope-mean()-X
+54) frequencyBodyGyroscope-mean()-Y                   
+55) frequencyBodyGyroscope-mean()-Z
+56) frequencyBodyGyroscope-std()-X                    
+57) frequencyBodyGyroscope-std()-Y
+58) frequencyBodyGyroscope-std()-Z                    
+59) frequencyBodyAccelerometerMagnitude-mean()
+60) frequencyBodyAccelerometerMagnitude-std()        
+61) frequencyBodyBodyAccelerometerJerkMagnitude-mean()
+62) frequencyBodyBodyAccelerometerJerkMagnitude-std() 
+63) frequencyBodyBodyGyroscopeMagnitude-mean()
+64) frequencyBodyBodyGyroscopeMagnitude-std()         
+65) frequencyBodyBodyAngularVelocityMagnitude-mean()
+66) frequencyBodyBodyAngularVelocityMagnitude-std()
 
 ##Subject ID
 1
